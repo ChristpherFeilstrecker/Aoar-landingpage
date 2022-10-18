@@ -1,0 +1,34 @@
+@import "../../../../StyledGlobalColor.css";
+
+#intro-section-7 {
+    height: 90vw;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    padding: 0 3rem;
+    border-bottom: 1px solid rgb(17, 17, 17,0.3);
+    margin-bottom: 0.5vw;
+    border-top: 1px solid rgb(17, 17, 17,0.3);
+}
+
+.mascot-section-7 {
+    max-height: 45vw;
+}
+
+.container-section-7 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    padding-bottom: 4vw;
+    gap:3vw;
+}
+
+.text-section-7 {
+    font-size: 2vw;
+    padding-bottom: 4.3vw;
+}
+
+@media (max-width: 1000px) {
+
+}
+

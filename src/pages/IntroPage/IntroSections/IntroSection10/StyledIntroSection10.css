@@ -1,0 +1,15 @@
+@import "../../../../StyledGlobalColor.css";
+
+#intro-section-10{
+background-color: var(--principalcolor);
+height: 90vw;
+display: flex;
+justify-content: center;
+align-items: flex-end;
+
+}
+
+.logo-section-10{
+    width: 40%;
+    padding-bottom: 14vw;
+}

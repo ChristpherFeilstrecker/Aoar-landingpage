@@ -1,0 +1,15 @@
+@import "../../../../StyledGlobalColor.css";
+
+#intro-section-6 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border-bottom: 1px solid rgb(17, 17, 17, 0.3);
+    border-top: 1px solid rgb(17, 17, 17, 0.3);
+    margin-bottom: 0.5vw;
+}
+
+.logo-section-6 {
+    width: 90%;
+}
