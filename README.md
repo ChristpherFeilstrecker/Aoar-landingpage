@@ -43,7 +43,6 @@ Landing Page AOAR
 
 <h2 id="tecnologias"> Tecnologias utilizadas: 🖥️ </h2>
 
-- Next JS
 - Javascript
 - CSS
 - React
